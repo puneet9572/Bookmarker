@@ -1,0 +1,27 @@
+body{
+	background: #fff ;
+}
+
+#main_container{
+
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#inner_jumbo{
+
+	text-align: center;
+	font-size: 20px;
+	font-weight: 400px;
+}
+
+#result{
+
+	text-align: center;
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
+.well{
+	background: ;
+}
